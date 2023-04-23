@@ -5,6 +5,10 @@
   "main": "./dist/index.js",
   "module": "./dist/esm.mjs",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/NotGhex/oceanic-pagination.git",
+    "type": "git"
+  },
   "exports": {
     ".": {
       "import": "./dist/esm.mjs",
