@@ -1,7 +1,7 @@
 {
   "name": "oceanic-pagination",
   "description": "A pagination library for oceanic.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "module": "./dist/esm.mjs",
   "types": "./dist/index.d.ts",
