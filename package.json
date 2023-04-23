@@ -36,5 +36,10 @@
     "oceanic.js",
     "discord",
     "pagination"
+  ],
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
   ]
 }
