@@ -1,0 +1,29 @@
+{
+  "name": "oceanic-pagination",
+  "description": "A pagination library for oceanic.js",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/esm.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/esm.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "clean": "npx rimraf dist",
+    "build": "npm run clean && npx tsc"
+  },
+  "dependencies": {
+    "fallout-utility": "^2.4.1",
+    "oceanic-collector": "^1.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "oceanic.js": "^1.6.0",
+    "rimraf": "^5.0.0",
+    "typescript": "^5.0.4"
+  }
+}
