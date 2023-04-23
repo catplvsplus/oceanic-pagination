@@ -21,10 +21,12 @@
     "oceanic-collector": "^1.0.3"
   },
   "devDependencies": {
-    "dotenv": "^16.0.3",
     "oceanic.js": "^1.6.0",
     "rimraf": "^5.0.0",
     "typescript": "^5.0.4"
+  },
+  "peerDependencies": {
+    "oceanic.js": "^1.6.0"
   },
   "keywords": [
     "oceanic.js",
