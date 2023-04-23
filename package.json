@@ -25,5 +25,10 @@
     "oceanic.js": "^1.6.0",
     "rimraf": "^5.0.0",
     "typescript": "^5.0.4"
-  }
+  },
+  "keywords": [
+    "oceanic.js",
+    "discord",
+    "pagination"
+  ]
 }
