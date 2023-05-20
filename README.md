@@ -16,7 +16,7 @@ npm i oceanic-pagination oceanic.js
 ### Button Pagination
 
 ```js
-const { ButtonPaginationBuilder } = require('@falloutstudios/djs-pagination');
+const { ButtonPaginationBuilder } = require('oceanic-pagination');
 const { ButtonStyles, Client, ComponentTypes, InteractionTypes } = require('oceanic.js');
 
 const bot = new Client({
@@ -76,7 +76,7 @@ bot.connect();
 > ⚠️ You cannot use reaction pagination with ephemeral messages
 
 ```js
-const { ReactionPaginationBuilder } = require('@falloutstudios/djs-pagination');
+const { ReactionPaginationBuilder } = require('oceanic-pagination');
 const { Client } = require('oceanic.js');
 
 const bot = new Client({
