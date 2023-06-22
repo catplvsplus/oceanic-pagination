@@ -1,6 +1,6 @@
 # Oceanic Pagination
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/oceanic-pagination?style=flat-square)
-![GitHub](https://img.shields.io/github/license/NotGhex/djs-pagination?style=flat-square)
+![GitHub](https://img.shields.io/github/license/NotGhex/oceanic-pagination?style=flat-square)
 ![npm (scoped)](https://img.shields.io/npm/v/oceanic-pagination?label=Latest%20Version&style=flat-square)
 
 A simple button and reaction pagination library for Oceanic.js
